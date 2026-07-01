@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Browse curated products from The Backend Boi Unbox with searchable product links."
+    />
+    <title>The Backend Boi Unbox Products</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="container">
+        <h1>The Backend Boi Products</h1>
+        <p class="hero-copy">
+          Discover simple, high-quality products and open the product link in one click.
+        </p>
+        <div class="search-card">
+          <label for="search">Search by product name or product ID</label>
+          <input
+            id="search"
+            type="text"
+            placeholder="Try 'keyboard' or TBB-001"
+            autocomplete="off"
+          />
+        </div>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="toolbar" aria-label="Product summary">
+        <p id="results-count">Showing 0 products</p>
+        <p class="toolbar-note">Each card opens the product link in a new tab.</p>
+      </section>
+
+      <section id="product-grid" class="product-grid" aria-live="polite"></section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
