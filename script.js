@@ -11,7 +11,7 @@ const products = [
   {
     id: 'TBB-002',
     name: 'Portronics Ruffpad Calc 2',
-    price: 'Rs. 1199/-*',
+    price: 'Rs. 1,199/-*',
     description: 'The Portronics Ruffpad Calc 2 combines a 12-digit calculator and a 5.5-inch LCD writing pad in one compact device. Perfect for students, professionals, and kids, it lets you perform calculations, jot down notes, doodle, and erase instantly with a single tap.',
     image:
         'https://m.media-amazon.com/images/I/61LYmKwn61L._SL1500_.jpg',
