@@ -11,12 +11,21 @@ const products = [
   {
     id: 'TBB-002',
     name: 'Portronics Ruffpad Calc 2',
-    price: 'Rs. 699/-*',
-    description: 'The Portronics Ruffpad Calc 2 combines a 12-digit calculator and a 5.5-inch LCD writing pad in one compact device. Perfect for students, professionals, and kids, it lets you perform calculations, jot down notes, doodle, and erase instantly with a single tap. Lightweight, portable, and ideal for school, office, or daily productivity.',
+    price: 'Rs. 1199/-*',
+    description: 'The Portronics Ruffpad Calc 2 combines a 12-digit calculator and a 5.5-inch LCD writing pad in one compact device. Perfect for students, professionals, and kids, it lets you perform calculations, jot down notes, doodle, and erase instantly with a single tap.',
     image:
         'https://m.media-amazon.com/images/I/61LYmKwn61L._SL1500_.jpg',
       link: 'https://amzn.to/4vJkaRD',
-  }
+  },
+  {
+  id: 'TBB-003',
+  name: 'GoMechanic Digital Tyre Inflator (Gusto T2)',
+  price: 'Rs. 1,950/-*',
+  description: 'The GoMechanic Gusto T2 is a portable 150 PSI digital tyre inflator designed for cars, bikes, bicycles, and other inflatables.',
+  image:
+    'https://m.media-amazon.com/images/I/71Cmp2ZNBJL._SL1500_.jpg',
+  link: 'https://amzn.to/4wgsA2z',
+}
 ];
 
 const grid = document.getElementById('product-grid');
