@@ -12,7 +12,7 @@ const products = [
     id: 'TBB-002',
     name: 'Portronics Ruffpad Calc 2',
     price: 'Rs. 1,199/-*',
-    description: 'The Portronics Ruffpad Calc 2 combines a 12-digit calculator and a 5.5-inch LCD writing pad in one compact device. Perfect for students, professionals, and kids, it lets you perform calculations, jot down notes, doodle, and erase instantly with a single tap.',
+    description: 'The Portronics Ruffpad Calc 2 combines a 12-digit calculator and a 5.5-inch LCD writing pad in one compact device. Perfect for students, professionals, and kids.',
     image:
         'https://m.media-amazon.com/images/I/61LYmKwn61L._SL1500_.jpg',
       link: 'https://amzn.to/4vJkaRD',
@@ -25,6 +25,16 @@ const products = [
   image:
     'https://m.media-amazon.com/images/I/71Cmp2ZNBJL._SL1500_.jpg',
   link: 'https://amzn.to/4wgsA2z',
+},
+  {
+  id: "TBB-004",
+  name: "Portronics Luxcell Wireless Mini 10K Magnetic Power Bank",
+  price: "Rs. 1,499/-*",
+  description:
+    "The Portronics Luxcell Wireless Mini 10K is a compact 10000mAh magnetic power bank with 15W wireless fast charging and 22.5W wired output, compatible with iPhone 12 series and other Qi-enabled devices.",
+  image:
+    "https://m.media-amazon.com/images/I/610xLLSDJ9L._SL1500_.jpg",
+  link: "https://amzn.to/4gSML25"
 }
 ];
 
