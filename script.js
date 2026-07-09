@@ -35,6 +35,16 @@ const products = [
   image:
     "https://m.media-amazon.com/images/I/610xLLSDJ9L._SL1500_.jpg",
   link: "https://amzn.to/4gSML25"
+},
+  {
+  id: "TBB-005",
+  name: "Unisex Faux Leather Watch Organiser Box with 6 Slots",
+  price: "Rs. 459/-*",
+  description:
+    "Durable & Sturdy Design: Made from high-quality material, this organiser box is designed for durability and longevity, keeping your watches safe and protected always.",
+  image:
+    "https://m.media-amazon.com/images/I/8162qBrd6ML._SL1500_.jpg",
+  link: "https://link.amazon/B0iWA8ijx"
 }
 ];
 
