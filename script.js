@@ -45,6 +45,16 @@ const products = [
   image:
     "https://m.media-amazon.com/images/I/8162qBrd6ML._SL1500_.jpg",
   link: "https://link.amazon/B0iWA8ijx"
+},
+   {
+  id: "TBB-006",
+  name: "Playpulse Electric Popcorn Popper",
+  price: "Rs. 1299/-*",
+  description:
+    "Oil-Free Healthy Snacking: Enjoy guilt-free popcorn every time! The Playpulse 1200W Hot Air Popcorn Maker pops kernels using only hot air — no oil or butter needed, delivering a light, healthy, and delicious snack in minutes.",
+  image:
+    "https://m.media-amazon.com/images/I/81mPzHWTStL._SL1500_.jpg",
+  link: "https://link.amazon/B0eanCzRr"
 }
 ];
 
