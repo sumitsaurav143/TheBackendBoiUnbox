@@ -55,6 +55,16 @@ const products = [
   image:
     "https://m.media-amazon.com/images/I/81mPzHWTStL._SL1500_.jpg",
   link: "https://link.amazon/B0eanCzRr"
+},
+  {
+  id: "TBB-007",
+  name: "GRENARO YouTube Wireless Mic",
+  price: "Rs. 749/-*",
+  description:
+    "This wireless mic for YouTubers offers 4 mode settings—Original Sound, Noise Reduction, Reverb, and Mute. The clear LED indicators make it easy to switch to the perfect mode, ensuring a hassle-free setup every time, whether you're using your mic.",
+  image:
+    "https://m.media-amazon.com/images/I/71dhDqkgHPL._SL1500_.jpg",
+  link: "https://link.amazon/B0gDmKViM"
 }
 ];
 
