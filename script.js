@@ -65,6 +65,16 @@ const products = [
   image:
     "https://m.media-amazon.com/images/I/71dhDqkgHPL._SL1500_.jpg",
   link: "https://link.amazon/B0gDmKViM"
+},
+  {
+  id: "TBB-008",
+  name: "Portronics Multifunctional Fast Charging Data Cable Kit,",
+  price: "Rs. 299/-*",
+  description:
+    "All-in-One Convenience: The ultimate multipurpose gadget for charging, syncing, and managing device essentials, ensuring you’re always prepared on the go.",
+  image:
+    "https://m.media-amazon.com/images/I/61t1Q0eNs7L._SL1500_.jpg",
+  link: "https://link.amazon/B0aMbM5JV"
 }
 ];
 
